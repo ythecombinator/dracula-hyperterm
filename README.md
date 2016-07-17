@@ -6,16 +6,30 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/hyperterm).
+> All instructions can be found at [draculatheme.com/hyperterm](https://draculatheme.com/hyperterm).
+
+Simply add `hyperterm-dracula` to the plugins list in your `~/.hyperterm.js` config file:
+
+```js
+module.exports = {
+
+  config: { /*... */ },
+
+  plugins: [
+    "hyperterm-dracula"
+  ]
+
+};
+```
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+[![matt](https://avatars0.githubusercontent.com/u/2644563)](https://github.com/ythecombinator) |
 --- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[Garrett T](https://github.com/ythecombinator) |
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
