@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [HyperTerm](https://hyperterm.org)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [HyperTerm](https://hyperterm.org).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/hyperterm.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/x](https://draculatheme.com/hyperterm).
 
 ## Team
 
