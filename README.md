@@ -24,11 +24,11 @@ module.exports = {
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/hyperterm/graphs/contributors).
 
-[![matt](https://avatars0.githubusercontent.com/u/2644563)](https://github.com/ythecombinator) |
+[![matt](https://avatars0.githubusercontent.com/u/2644563?s=70)](https://github.com/ythecombinator) |
 --- | ---
-[Garrett T](https://github.com/ythecombinator) |
+[matt](https://github.com/ythecombinator)
 
 ## License
 
