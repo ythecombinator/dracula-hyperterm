@@ -1,0 +1,21 @@
+{
+  "name": "hyperterm-dracula",
+  "version": "0.1.0",
+  "description": "A dark theme for HyperTerm",
+  "license": "MIT",
+  "repository": "dracula/hyperterm",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "dracula",
+    "dracula-theme"
+  ],
+  "author": {
+    "name": "Dracula Theme",
+    "url": "https://draculatheme.com/"
+  },
+  "homepage": "https://draculatheme.com/hyperterm"
+}
