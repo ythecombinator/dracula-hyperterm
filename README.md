@@ -2,7 +2,11 @@
 
 > A dark theme for [HyperTerm](https://hyperterm.org).
 
-![Screenshot](screenshot.png)
+<p align="center">
+  <a href="">
+    <img alt="screenshot" src="screenshot.png">
+  </a>
+</p>
 
 ## Install
 
@@ -26,9 +30,9 @@ module.exports = {
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/hyperterm/graphs/contributors).
 
-[![matt](https://avatars0.githubusercontent.com/u/2644563?s=70)](https://github.com/ythecombinator) |
---- | ---
-[matt](https://github.com/ythecombinator)
+[![matt](https://avatars3.githubusercontent.com/u/2644563?s=70)](https://github.com/ythecombinator) |
+--- |
+[matt](https://github.com/ythecombinator) |
 
 ## License
 
